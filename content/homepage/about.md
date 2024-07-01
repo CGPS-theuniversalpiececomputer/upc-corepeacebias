@@ -4,6 +4,11 @@ draft: false
 avatar: images/THIicon.png
 bio: This page contains the core peace bias. This list of value pairs is not exhaustive, and each pair is subject to debate, case applicability and goodness to be determined via constant conversation between world piece computer operators and world inhabitants. Each instance of a world piece computer is expected to maintain its own version of a core peace bias. By maintaining a core peace bias and its consistent application to decision-making process at all scopes, the random walk of life should take on weighted movement in a direction most conducive to maintaining the universal piece. THE VALUE PAIRS PRESENTED HERE ARE NECESSARILY INCONSISTENT AND NEED FURTHER ANALYSIS.
 
+social:
+  - icon: github
+    iconPack: fab
+    url: https://github.com/CGPS-theuniversalpiececomputer/corepeacebias-up-computer
+
 weight: 1
 widget:
   handler: about
