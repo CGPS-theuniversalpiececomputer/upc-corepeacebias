@@ -4,8 +4,8 @@ main:
     weight: 1
   - name: LINGUA FRANCA
     url: 'https://linguafranca.up.computer'
-    weight: 2
-  - name: CORE PEACE BIAS
-    url: 'https://corepeacebias.up.computer'
     weight: 3
+  - name: THE HUMAN IMPERATIVE
+    url: 'https://thehumanimperative.up.computer'
+    weight: 2
 
